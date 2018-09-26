@@ -1,3 +1,2 @@
-# New-Repo
-First repository
-Branch Edit
+# Home-Repo
+Home repository
